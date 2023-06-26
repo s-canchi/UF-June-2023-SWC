@@ -1,2 +1,3 @@
 git is a distributed version control system.
 It has been in use since 2005.
+git is awesome!
