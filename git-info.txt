@@ -2,4 +2,3 @@ git is a distributed version control system.
 It has been in use since 2005.
 git is awesome!
 git can be used locally or on remote server.
-GIT sjterjsgd
